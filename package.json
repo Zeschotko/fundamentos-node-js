@@ -1,0 +1,26 @@
+{
+  "name": "fundamentos-node",
+  "version": "1.0.0",
+  "description": "Estudo rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeschotko/fundamentos-node-js.git"
+  },
+  "author": "Samuel Zeschotko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeschotko/fundamentos-node-js/issues"
+  },
+  "homepage": "https://github.com/Zeschotko/fundamentos-node-js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
